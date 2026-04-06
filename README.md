@@ -1,4 +1,4 @@
-# Airbnb_PowerBI
+# TudoAqui_PowerBI
 Projeto voltado para a criação de Dashboards da empresa fictícia Tudo Aqui, através do Power BI e utilizando dados públicos disponibilizados pela Airbnb. Todos os dados utilizados nesse projeto são de domínio público e não infringem nenhuma regra da Lei Geral de Proteção dos Dados.
 
 ## 1. O Problema de Negócio
